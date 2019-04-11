@@ -11,6 +11,7 @@
 
 #include <string>
 #include <vector>
+#include <cstddef>
 #include "helper_functions.h"
 
 struct Particle {
